@@ -1,6 +1,6 @@
 {
   "name": "@tapfiliate/tapfiliate-js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simple wrapper for the Tapfiliate javascript integration library",
   "main": "./dist/index.js",
   "module": "./dist/index.js",

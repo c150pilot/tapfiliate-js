@@ -10,7 +10,8 @@
     "dist"
   ],
   "scripts": {
-    "build": "tsc"
+    "build": "npx tsc",
+    "prepare": "npx tsc"
   },
   "sideEffects": false,
   "exports": {

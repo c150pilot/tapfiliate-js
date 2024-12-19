@@ -9,9 +9,6 @@
   "files": [
     "dist"
   ],
-  "scripts": {
-    "build": "tsc"
-  },
   "sideEffects": false,
   "exports": {
     ".": {
